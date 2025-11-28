@@ -1,0 +1,10 @@
+*.ccspjt
+*.err
+*.esym
+*.lst
+*.STA
+*.sym
+*.tre
+*.xsym
+*.hex
+*.cof
